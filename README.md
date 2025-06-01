@@ -73,6 +73,7 @@ Before running tests, open the following file and enter **working credentials** 
 interview-demo-yonalink/interview-demo-yonalink/test_data/ui/login/login_credentials_test_data.json
 
 Example:
+```json
 [
   {
     "login_username": "your-email@example.com",
@@ -83,6 +84,7 @@ Example:
     "login_password": "yourSecurePassword123!"
   }
 ]
+```
 
 
 ### Run all tests
